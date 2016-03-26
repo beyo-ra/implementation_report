@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xsd:schema xmlns:xsd="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="https://mediaarea.net/mediaconch"
+    xmlns="https://mediaarea.net/mediaconch" elementFormDefault="qualified"
+    version="0.1">
+    <xsd:element name="implementation_checker" type="checkerType"/>
+    <xsd:complexType name="checkerType">
+        <xsd:sequence>
+            <xsd:element name="name"        type="xsd:string"     minOccurs="1" maxOccurs="1" />
+            <xsd:element name="description" type="xsd:string"     minOccurs="0" maxOccurs="1" />
+            <xsd:element name="assertions"  type="assertionsType" minOccurs="0" maxOccurs="unbounded" />
+        </xsd:sequence>
+        <xsd:attribute name="ref">
+            <xsd:annotation>
+                <xsd:documentation>The url of the implementation checker.</xsd:documentation>
+            </xsd:annotation>
+        </xsd:attribute>
+        <xsd:attribute name="version">
+            <xsd:annotation>
+                <xsd:documentation>The version of the implementation checker.</xsd:documentation>
+            </xsd:annotation>
+        </xsd:attribute>
+        <xsd:attribute name="format">
+            <xsd:annotation>
+                <xsd:documentation>The format tested by the implementation checker.</xsd:documentation>
+            </xsd:annotation>
+        </xsd:attribute>
+        <xsd:attribute name="flavour">
+            <xsd:annotation>
+                <xsd:documentation>Identify any subcategory of the format tested such as profiles, implementations, format versions.</xsd:documentation>
+            </xsd:annotation>
+        </xsd:attribute>
+        <xsd:attribute name="totalAssertions">
+            <xsd:annotation>
+                <xsd:documentation>A tally of the assertions used by the implementation checker.</xsd:documentation>
+            </xsd:annotation>
+        </xsd:attribute>
+        <xsd:attribute name="isCompliant">
+            <xsd:annotation>
+                <xsd:documentation>A simple result of "true", "false", or "not application" to summarize the result of the implementation checker.</xsd:documentation>
+            </xsd:annotation>
+        </xsd:attribute>
+    </xsd:complexType>
+    <xsd:complexType name="assertionsType">
+        <xsd:sequence>
+            <xsd:element name="message"     type="xsd:string"  minOccurs="0" maxOccurs="1" />
+            <xsd:element name="context"     type="contextType" minOccurs="0" maxOccurs="unbounded" />
+            <xsd:element name="ruleId"      type="ruleIdType"  minOccurs="0" maxOccurs="unbounded" />
+            <xsd:element name="test"        type="testType"    minOccurs="1" maxOccurs="unbounded" />
+        </xsd:sequence>
+        <xsd:attribute   name="icid" />
+        <xsd:attribute   name="version" />
+        <xsd:attribute   name="status" />
+    </xsd:complexType>
+    <xsd:complexType name="contextType">
+        <xsd:annotation>
+            <xsd:documentation>Identifies any contextual info from the file or implied that is contextually used within the assertions' tests.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:simpleContent>
+           <xsd:extension base="xsd:string" >
+               <xsd:attribute   name="name" />
+               <xsd:attribute   name="offset" />
+               <xsd:attribute   name="location" />
+           </xsd:extension>
+        </xsd:simpleContent>
+    </xsd:complexType>
+    <xsd:complexType name="ruleIdType">
+        <xsd:annotation>
+            <xsd:documentation>Identifies and references authorities and interpretation behind the assertion.</xsd:documentation>
+        </xsd:annotation>
+        <xsd:attribute   name="specification" />
+        <xsd:attribute   name="clause" />
+        <xsd:attribute   name="testNumber" />
+    </xsd:complexType>
+    <xsd:complexType name="testType">
+        <xsd:annotation>
+            <xsd:documentation> The field attribute identifies the selected metadata field for policy checking. </xsd:documentation>
+        </xsd:annotation>
+        <xsd:sequence>
+            <xsd:element name="reason"      type="xsd:string" minOccurs="0" maxOccurs="1" />
+            <xsd:element name="value"       type="valueType"  minOccurs="0" maxOccurs="unbounded" />
+        </xsd:sequence>
+        <xsd:attribute   name="ordinal" />
+        <xsd:attribute   name="outcome" />
+    </xsd:complexType>
+    <xsd:complexType name="valueType">
+        <xsd:annotation>
+            <xsd:documentation>The reason attribute specifies a reason for a "failed" outcome check. </xsd:documentation>
+        </xsd:annotation>
+        <xsd:simpleContent>
+           <xsd:extension base="xsd:string" >
+               <xsd:attribute   name="name" />
+               <xsd:attribute   name="offset" />
+               <xsd:attribute   name="location" />
+           </xsd:extension>
+        </xsd:simpleContent>
+    </xsd:complexType>
+</xsd:schema>
