@@ -1,0 +1,1034 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<cliReport xmlns="http://www.verapdf.org/ValidationProfile">
+    <itemDetails size="3324117">
+        <name>111-Final X.pdf</name>
+    </itemDetails>
+    <validationResult flavour="PDFA_1_B" totalAssertions="443309" isCompliant="false">
+        <assertions>
+            <assertion ordinal="185062" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[21]/annots[1]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="170611" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[24]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="136546" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[34]/annots[4]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="373036" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[15]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="384858" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[12]/contentStream[0]/operators[136]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="384757" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[12]/contentStream[0]/operators[181]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="151288" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[30]/annots[2]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="28181" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[36]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="136537" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[34]/annots[5]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="176422" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[23]/annots[7]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="161254" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[27]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="185053" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[21]/annots[2]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="440954" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[1]/contentStream[0]/operators[82]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="384884" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[12]/contentStream[0]/operators[125]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="151306" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[30]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="147995" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[32]/contentStream[0]/operators[302]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="28172" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[36]/annots[1]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="32021" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[36]/contentStream[0]/operators[83]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="367151" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[19]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="176431" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[23]/annots[6]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="151279" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[30]/annots[3]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="185078" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[21]/contentStream[0]/operators[440]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="373018" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[15]/annots[2]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="370363" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[17]/contentStream[0]/operators[662]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="420236" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[6]/contentStream[0]/operators[108]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="372958" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[16]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="429807" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[4]/contentStream[0]/operators[82]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="136573" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[34]/annots[1]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="27741" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[38]/contentStream[0]/operators[83]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="27947" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[37]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="391420" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[10]/annots[2]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="186917" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[20]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="385177" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[11]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="377450" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[14]/contentStream[0]/operators[103]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="372739" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[17]/contentStream[0]/operators[96]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="165274" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[26]/contentStream[0]/operators[821]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="429768" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[4]/contentStream[0]/operators[102]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="136564" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[34]/annots[2]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="151372" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[30]/contentStream[0]/operators[1122]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="370269" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[18]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="375246" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[14]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="153703" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[30]/contentStream[0]/operators[623]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="370338" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[17]/annots[2]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="136510" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[34]/annots[8]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="182154" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[22]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="373027" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[15]/annots[1]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="32223" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[35]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="186655" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[21]/contentStream[0]/operators[116]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="384975" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[12]/contentStream[0]/operators[83]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="384483" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[12]/contentStream[0]/operators[283]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="373558" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[15]/contentStream[0]/operators[377]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="370061" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[19]/contentStream[0]/operators[85]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="394709" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[8]/annots[3]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="151297" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[30]/annots[1]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="151270" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[30]/annots[4]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="384936" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[12]/contentStream[0]/operators[103]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="141281" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[33]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="179732" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[23]/contentStream[0]/operators[843]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="394736" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[8]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="24268" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[38]/contentStream[0]/operators[985]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="176467" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[23]/annots[2]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="155123" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[29]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="176440" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[23]/annots[5]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="420275" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[6]/contentStream[0]/operators[88]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="141017" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[34]/contentStream[0]/operators[96]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="420480" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[5]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="384705" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[12]/contentStream[0]/operators[203]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="391438" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[10]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="148966" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[31]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="384634" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[12]/contentStream[0]/operators[234]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="176458" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[23]/annots[3]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="442768" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[0]/contentStream[0]/operators[230]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="373043" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[15]/contentStream[0]/operators[480]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="153682" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[30]/contentStream[0]/operators[633]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="170409" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[25]/contentStream[0]/operators[83]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="394727" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[8]/annots[1]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="24248" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[38]/contentStream[0]/operators[995]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="176449" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[23]/annots[4]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="395932" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[8]/contentStream[0]/operators[220]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="179712" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[23]/contentStream[0]/operators[853]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="391429" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[10]/annots[1]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="176476" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[23]/annots[1]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="377692" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[13]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="443285" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.7.11" testNumber="1"/>
+                <message>The PDF/A version and conformance level of a file shall be specified using the PDF/A Identification extension schema.</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/metadata[0]/XMPPackage[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="370347" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[17]/annots[1]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="384660" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[12]/contentStream[0]/operators[223]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="21651" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[38]/contentStream[0]/operators[1495]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="167731" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[25]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="376384" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[14]/contentStream[0]/operators[385]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="136519" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[34]/annots[7]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="384679" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[12]/contentStream[0]/operators[214]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="153724" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[30]/contentStream[0]/operators[613]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="370041" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[19]/contentStream[0]/operators[95]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="384910" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[12]/contentStream[0]/operators[114]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="370329" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[17]/annots[3]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="394441" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[9]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="153744" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[30]/contentStream[0]/operators[603]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="176485" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[23]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="373062" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[15]/contentStream[0]/operators[471]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="391411" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[10]/annots[3]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="420733" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.3.5" testNumber="1"/>
+                <message>Embedded font programs shall define all font glyphs referenced for rendering with a conforming file</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[5]/contentStream[0]/operators[1449]/usedGlyphs[0](Helvetica-Condensed-Identity-H 0)</context>
+                </location>
+            </assertion>
+            <assertion ordinal="136528" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[34]/annots[6]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="179692" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[23]/contentStream[0]/operators[863]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="394718" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[8]/annots[2]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="151261" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[30]/annots[5]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="140997" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[34]/contentStream[0]/operators[106]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="161052" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[28]/contentStream[0]/operators[83]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="162629" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[26]/contentStream[0]/operators[1449]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="24228" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[38]/contentStream[0]/operators[1005]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="443115" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[0]/contentStream[0]/operators[81]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="384832" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[12]/contentStream[0]/operators[147]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="436613" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[2]/contentStream[0]/operators[82]/xObject[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="396892" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[7]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="136555" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[34]/annots[3]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="370356" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[17]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="136582" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[34]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="185044" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[21]/annots[3]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="185071" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[21]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="441155" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.5.3" testNumber="2"/>
+                <message>An annotation dictionary shall contain the F key. The F key’s Print flag bit shall be set to 1 and its Hidden,
+			Invisible and NoView flag bits shall be set to 0</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[0]/annots[0]</context>
+                </location>
+            </assertion>
+            <assertion ordinal="384731" status="FAILED">
+                <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+                <message>If an Image dictionary contains the Interpolate key, its value shall be false</message>
+                <location>
+                    <level>CosDocument</level>
+                    <context>root/document[0]/pages[12]/contentStream[0]/operators[192]/xObject[0]</context>
+                </location>
+            </assertion>
+        </assertions>
+    </validationResult>
+</cliReport>

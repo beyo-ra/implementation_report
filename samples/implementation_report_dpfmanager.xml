@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalreport>
+   <individualreports>
+      <report>
+         <file_info>
+            <name>testsrc.tif</name>
+            <fullpath>testsrc.tif</fullpath>
+         </file_info>
+         <tiff_structure>
+            <ifdTree>
+               <ifdNode>
+                  <number>0</number>
+                  <isimg>yes</isimg>
+                  <imagetype check_ifd0="typ">Main image</imagetype>
+                  <image_representation>strips[30]</image_representation>
+                  <photometric>2</photometric>
+                  <hasSubIfd>no</hasSubIfd>
+                  <hasExif>no</hasExif>
+                  <hasXMP>no</hasXMP>
+                  <hasIPTC>no</hasIPTC>
+                  <tags>
+                     <tag>
+                        <name>NewSubfileType</name>
+                        <id>254</id>
+                        <value>0</value>
+                     </tag>
+                     <tag>
+                        <name>ImageWidth</name>
+                        <id>256</id>
+                        <value>320</value>
+                     </tag>
+                     <tag>
+                        <name>ImageLength</name>
+                        <id>257</id>
+                        <value>240</value>
+                     </tag>
+                     <tag>
+                        <name>BitsPerSample</name>
+                        <id>258</id>
+                        <value>[8,8,8]</value>
+                     </tag>
+                     <tag>
+                        <name>Compression</name>
+                        <id>259</id>
+                        <value>32773</value>
+                     </tag>
+                     <tag>
+                        <name>PhotometricInterpretation</name>
+                        <id>262</id>
+                        <value>2</value>
+                     </tag>
+                     <tag>
+                        <name>StripOffsets</name>
+                        <id>273</id>
+                        <value>Array[30]</value>
+                     </tag>
+                     <tag>
+                        <name>SamplesPerPixel</name>
+                        <id>277</id>
+                        <value>3</value>
+                     </tag>
+                     <tag>
+                        <name>RowsPerStrip</name>
+                        <id>278</id>
+                        <value>8</value>
+                     </tag>
+                     <tag>
+                        <name>StripBYTECount</name>
+                        <id>279</id>
+                        <value>Array[30]</value>
+                     </tag>
+                     <tag>
+                        <name>XResolution</name>
+                        <id>282</id>
+                        <value>72/1</value>
+                     </tag>
+                     <tag>
+                        <name>YResolution</name>
+                        <id>283</id>
+                        <value>72/1</value>
+                     </tag>
+                     <tag>
+                        <name>ResolutionUnit</name>
+                        <id>296</id>
+                        <value>2</value>
+                     </tag>
+                     <tag>
+                        <name>Software</name>
+                        <id>305</id>
+                        <value>Lavc57.30.100</value>
+                     </tag>
+                  </tags>
+               </ifdNode>
+            </ifdTree>
+         </tiff_structure>
+         <ImageWidth ImageWidth="320">320</ImageWidth>
+         <ImageHeight ImageHeight="240">240</ImageHeight>
+         <bitspersample>[8,8,8]</bitspersample>
+         <PixelDensity PixelDensity="72">72.0</PixelDensity>
+         <ByteOrder ByteOrder="LITTLE_ENDIAN">LITTLE_ENDIAN</ByteOrder>
+         <NewSubfileType NewSubfileType="0" id="254" type="0">0</NewSubfileType>
+         <ImageWidth ImageWidth="320" id="256" type="0">320</ImageWidth>
+         <ImageLength ImageLength="240" id="257" type="0">240</ImageLength>
+         <BitsPerSample BitsPerSample="[8,8,8]" id="258" type="0">[8,8,8]</BitsPerSample>
+         <Compression Compression="32773" id="259" type="0">32773</Compression>
+         <PhotometricInterpretation PhotometricInterpretation="2" id="262" type="0">2</PhotometricInterpretation>
+         <StripOffsets StripOffsets="[8,5813,11619,17427,23235,29043,34851,40685,46525,52365,58205,64045,69749,75069,80397,85713,91029,96357,101677,107381,113221,119061,124901,131693,139437,147181,154925,161459,167267,173074]"
+                       id="273"
+                       type="0">[8,5813,11619,17427,23235,29043,34851,40685,46525,52365,58205,64045,69749,75069,80397,85713,91029,96357,101677,107381,113221,119061,124901,131693,139437,147181,154925,161459,167267,173074]</StripOffsets>
+         <SamplesPerPixel SamplesPerPixel="3" id="277" type="0">3</SamplesPerPixel>
+         <RowsPerStrip RowsPerStrip="8" id="278" type="0">8</RowsPerStrip>
+         <StripBYTECount StripBYTECount="[5805,5806,5808,5808,5808,5808,5834,5840,5840,5840,5840,5704,5320,5328,5316,5316,5328,5320,5704,5840,5840,5840,6792,7744,7744,7744,6534,5808,5807,5804]"
+                         id="279"
+                         type="0">[5805,5806,5808,5808,5808,5808,5834,5840,5840,5840,5840,5704,5320,5328,5316,5316,5328,5320,5704,5840,5840,5840,6792,7744,7744,7744,6534,5808,5807,5804]</StripBYTECount>
+         <XResolution XResolution="72/1" id="282" type="0">72/1</XResolution>
+         <YResolution YResolution="72/1" id="283" type="0">72/1</YResolution>
+         <ResolutionUnit ResolutionUnit="2" id="296" type="0">2</ResolutionUnit>
+         <Software Software="Lavc57.30.100" id="305" type="0">Lavc57.30.100</Software>
+         <implementation_checker>
+            <results_baseline/>
+            <results_tiffep>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing Sub IFD</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP ImageDescription</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP Make</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP Model</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP Copyright</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP DateTimeOriginal</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP DateTime</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP TIFFEPStandardID</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP PlanarConfiguration</msg>
+               </result>
+            </results_tiffep>
+            <results_tiffit>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffIT2 ImageDescription</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Invalid cardinality for TiffIT2 tag StripOffsets</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Invalid cardinality for TiffIT2 tag StripOffsets</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Invalid cardinality for TiffIT2 tag StripOffsets</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffIT2 Orientation</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Invalid cardinality for TiffIT2 tag StripBYTECount</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffIT2 PlanarConfiguration</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffIT2 NumberOfInks</msg>
+               </result>
+            </results_tiffit>
+            <results>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing Sub IFD</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP ImageDescription</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP Make</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP Model</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP Copyright</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP DateTimeOriginal</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP DateTime</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP TIFFEPStandardID</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffEP PlanarConfiguration</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffIT2 ImageDescription</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Invalid cardinality for TiffIT2 tag StripOffsets</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Invalid cardinality for TiffIT2 tag StripOffsets</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Invalid cardinality for TiffIT2 tag StripOffsets</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffIT2 Orientation</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Invalid cardinality for TiffIT2 tag StripBYTECount</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffIT2 PlanarConfiguration</msg>
+               </result>
+               <result>
+                  <level>critical</level>
+                  <msg>Missing required tag for TiffIT2 NumberOfInks</msg>
+               </result>
+            </results>
+         </implementation_checker>
+      </report>
+   </individualreports>
+   <stats>
+      <reports_count>1</reports_count>
+      <valid_files>0</valid_files>
+      <invalid_files>1</invalid_files>
+   </stats>
+</globalreport>
