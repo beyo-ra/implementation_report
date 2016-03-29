@@ -175,7 +175,7 @@ mediaconch
 I merged these to create a structure like this:
 ```xml
 <assertion status="FAILED" icid="MKV-SEEK-RESOLVE" version="1">
-    <ruleId specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
+    <reference specification="ISO_19005_1" clause="6.2.4" testNumber="3"/>
     <message>About the assertion</message>
     <context name="Offset of First Segment Element">59</context>
     <test ordinal="384884" outcome="FAILED">
