@@ -17,7 +17,7 @@ At a high level XML output from the 3 suppliers all followed this general struct
 
 In Verapdf's case this is expressed like:
 ```xml
-<cliReprot>
+<cliReport>
     <itemDetails/>
     <validationResult>
         <assertions>
@@ -57,7 +57,8 @@ From MediaConch:
 ```
 
 Notes:
-    I'm unclear how a Verapdf report can report on more than one file in a single document.
+- I'm unclear how a Verapdf report can report on more than one file in a single document.
+  - Carl OPF: We currently don't support this, the CLI produces a single document per file, batch processing options will be in release 0.14 or 0.16
 
 ## Proposal for Normalization
 
@@ -68,12 +69,18 @@ To prioritize conformance these expressions of conformance I recommend focusing 
 - dpfmanager:implementation_checker
 - mediaconch:implementationChecks
 
+Notes:
+- Carl OPF: This seems sensible, we maybe want to harmonize our naming here.
+
 ### file identity
 
 Beyond this there are some other aspects to standardize. It should be clear how to identify the file in each report in a consistent way. Presently we have:
 - verapdf:cliReport/itemDetails/name
 - dpfmanager:globalreport/individualreports/report/file_info/name
 - mediaconch:MediaConch/media/@ref
+
+Notes:
+- Carl OPF: The one issue here is that we're not always guaranteed to have a file name, e.g. when processing an input stream. This information is "common ground" however and we should probably adopt consistent naming.
 
 ### overall result
 
@@ -115,8 +122,11 @@ or
 ```
 
 Notes:
-I'm not sure if `flavour` is the best format-generic way to refer to a profile or sub-category or type of a particular file format. Suggestions?
-Is isCompliant a boolean?
+- I'm not sure if `flavour` is the best format-generic way to refer to a profile or sub-category or type of a particular file format. Suggestions?
+  - Carl OPF: flavour is very much a loaded PDF term of our invention.
+- Is isCompliant a boolean?
+  - Carl OPF: Our flag is currently boolean but the not-applicable fits the this is not a PDF case better. We'd consider moving to an enumeration for this.
+
 
 ## assertions
 I have a preference for verapdf's language here, so am switching MediaConch's `check` to `assertion`.
@@ -124,6 +134,8 @@ I have a preference for verapdf's language here, so am switching MediaConch's `c
 I'm not certain how `@ordinal` is able to cross reference to anything but left it in.
 
 There's a difference between how mediaconch and verapdf/dpfmanager handle assertions. In MediaConch we have a `check` which is a generic rule (for example: that a named element has a valid parent element) and then that `check` uses a subelement `test` to note the outcome of that check on every element. Thus a check of a rule on a file can result in many, many tests. In verapdf the concepts of `test` and `check` are merged. I prefer maintaining the distinct but please advice.
+
+Note: Carl OPF - we have `rule` that's akin to the `check` BUT rules also contain a `test` that's the machine interpretable expression of the rule. Finally an 'assertion' is the the same as a `check`, i.e. the instantiation of a `test` on a particular element.
 
 Here's examples of the current assertions:
 
